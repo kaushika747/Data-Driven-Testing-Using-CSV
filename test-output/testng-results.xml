@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="92163" started-at="2022-04-12T07:10:15Z" finished-at="2022-04-12T07:11:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="92163" started-at="2022-04-12T07:10:15Z" finished-at="2022-04-12T07:11:47Z">
+      <class name="csv.CSVFileReadingExample">
+        <test-method status="PASS" signature="setup()[pri:0, instance:csv.CSVFileReadingExample@2fc14f68]" name="setup" is-config="true" duration-ms="3810" started-at="2022-04-12T12:40:15Z" finished-at="2022-04-12T12:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TestingBlog()[pri:0, instance:csv.CSVFileReadingExample@2fc14f68]" name="TestingBlog" duration-ms="88335" started-at="2022-04-12T12:40:19Z" finished-at="2022-04-12T12:41:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestingBlog -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:csv.CSVFileReadingExample@2fc14f68]" name="TearDown" is-config="true" duration-ms="1" started-at="2022-04-12T12:41:47Z" finished-at="2022-04-12T12:41:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- csv.CSVFileReadingExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
